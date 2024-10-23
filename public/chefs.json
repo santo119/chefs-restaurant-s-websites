@@ -1,0 +1,57 @@
+
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Classic Spaghetti Bolognese",
+      "recipe_image": "https://i.postimg.cc/gkzgstmk/chef5.avif",
+      "short_description": "A hearty and flavorful Italian dish with minced beef, tomato sauce, and spaghetti.",
+      "ingredients": ["Ground beef", "Tomato sauce", "Spaghetti", "Onion", "Garlic", "Carrots", "Celery", "Wine", "Herbs", "Parmesan cheese"],
+      "preparing_times": 60,
+      "calories": 500
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Chicken Tikka Masala",
+      "recipe_image": "https://i.postimg.cc/90jxwsNb/chef2.avif",
+      "short_description": "A creamy and aromatic Indian curry made with marinated chicken and a rich tomato-based sauce.",
+      "ingredients": ["Chicken breasts", "Yogurt", "Lemon juice", "Ginger", "Garlic", "Cumin", "Corriander", "Turmeric", "Tomato sauce", "Cream"],
+      "preparing_times": 90,
+      "calories": 450
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Vegetable Stir-Fry",
+      "recipe_image": "https://i.postimg.cc/15Vt3212/chef4.avif",
+      "short_description": "A healthy and colorful dish with a variety of vegetables cooked in a flavorful sauce.",
+      "ingredients": ["Broccoli", "Carrots", "Bell peppers", "Snap peas", "Onion", "Garlic", "Soy sauce", "Sesame oil", "Rice"],
+      "preparing_times": 30,
+      "calories": 300
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Chocolate Chip Cookies",
+      "recipe_image": "https://i.postimg.cc/kMKMr8NP/chef5.avif",
+      "short_description": "A classic treat with soft, chewy cookies filled with chocolate chips.",
+      "ingredients": ["Flour", "Sugar", "Brown sugar", "Butter", "Eggs", "Vanilla extract", "Baking soda", "Salt", "Chocolate chips"],
+      "preparing_times": 45,
+      "calories": 250
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Caesar Salad",
+      "recipe_image": "https://i.postimg.cc/90FLByCw/chef6.avif",
+      "short_description": "A refreshing and flavorful salad with romaine lettuce, croutons, Parmesan cheese, and a creamy Caesar dressing.",
+      "ingredients": ["Romaine lettuce", "Croutons", "Parmesan cheese", "Caesar dressing (mayonnaise, lemon juice, garlic, anchovies, Worcestershire sauce, Dijon mustard, black pepper)"],
+      "preparing_times": 15,
+      "calories": 200
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Sushi Rolls",
+      "recipe_image": "https://i.postimg.cc/90FLByCw/chef6.avif",
+      "short_description": "A delicious Japanese dish with rice, seaweed, and various fillings like fish, vegetables, and avocado.",
+      "ingredients": ["Sushi rice", "Nori seaweed", "Salmon", "Tuna", "Avocado", "Cucumber", "Wasabi, soy sauce, ginger"],
+      "preparing_times": 30,
+      "calories": 350
+    }
+  ]
